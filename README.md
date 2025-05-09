@@ -14,7 +14,7 @@ Responsive tasarımın tüm ekran boyutlarında düzgün çalışması
 Hover durumlarının uygun şekilde ayarlanması
 
 Ekran Görüntüleri
-Masaüstü Görünümü: ![image alt]()
+Masaüstü Görünümü: ![image alt](https://github.com/sercancintosunn/FAQS/blob/20413420b9897b36889416f98fa327fd2f77df8e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-09%20163349.png)
 Masaüstü Görünümü
 
 Mobil Görünümü:
