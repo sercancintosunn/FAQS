@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+    html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: hsl(275, 100%, 97%);
+    box-sizing: border-box;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/background-pattern-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 100vh;
+}
+
+
+
+.content{
+    background-color: hsl(0, 100%, 100%);
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 20px;
+    width: 90%; /* Değiştirildi */
+    max-width: 600px; /* Yeni eklendi */
+    margin: 0 auto 40px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.top{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.text{
+    padding: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+    
+}
+
+.text:last-child{
+    border-bottom: 0;
+}
+
+.questions{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: hsl(292, 42%, 14%);
+}
+
+.questions:hover{
+    cursor: pointer;
+  color: hsl(281, 83%, 54%);
+
+}
+
+.answer{
+    font-weight: 400;
+    color: hsl(292, 42%, 14%);
+}
+
+
+    @media only screen and (max-width: 375px) {
+    .main {
+        padding-top: 80px;
+        align-items: flex-start;
+        background-image: url(./images/background-pattern-mobile.svg);
+    }
+    
+    .content {
+        padding: 20px;
+        width: 85%;
+        margin: 20px;
+    }
+    
+    .top {
+        gap: 15px;
+    }
+    
+    .top img {
+        width: 24px;
+    }
+    
+    .questions p {
+        width: 85%; 
+    }
+    
+    .answer {
+        font-size: 0.9rem;
+    }
+}
