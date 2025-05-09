@@ -15,15 +15,15 @@ Hover durumlarının uygun şekilde ayarlanması
 
 Ekran Görüntüleri
 Masaüstü Görünümü: ![image alt](https://github.com/sercancintosunn/FAQS/blob/20413420b9897b36889416f98fa327fd2f77df8e/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-09%20163349.png)
-Masaüstü Görünümü
+
 
 Mobil Görünümü:
-Mobil Görünümü
+![image alt](https://github.com/sercancintosunn/FAQS/blob/da69cdef8abcd8e995d544508c0e21b40591fcee/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-09%20163441.png)
 
 Bağlantılar
 Canlı Demo
 
-Çözüm URL'si
+
 
 Frontend Mentor Profilim
 
@@ -35,15 +35,11 @@ CSS3
 
 Flexbox
 
-CSS Grid
-
 Media Queries
 
-CSS Variables
 
 JavaScript (ES6+)
 
-Mobile-first workflow
 
 Öğrendiklerim
 Accordion yapısının JavaScript ile nasıl oluşturulacağı
@@ -89,7 +85,7 @@ Aynı anda sadece bir cevap görüntülenebilir
 Mobil cihazlarda dokunmatik etkileşimler için optimize edilmiştir
 
 Yazar
-Website - Your Name
+Website - Sercan Çintosun
 
 Frontend Mentor - @yourusername
 
