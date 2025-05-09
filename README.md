@@ -25,7 +25,8 @@ Canlı Demo
 
 
 
-Frontend Mentor Profilim
+Frontend Mentor Profilim 
+https://www.frontendmentor.io/profile/sercancintosunn
 
 Süreç
 Kullanılan Teknolojiler
@@ -36,7 +37,6 @@ CSS3
 Flexbox
 
 Media Queries
-
 
 JavaScript (ES6+)
 
@@ -68,15 +68,17 @@ Kurulum
 Projeyi klonlayın:
 
 bash
-git clone https://github.com/yourusername/faq-accordion-card.git
+git clone https://github.com/sercancintosunn/FAQS.git
+
 Proje dizinine gidin:
-
 bash
-cd faq-accordion-card
-Tarayıcıda açın:
+cd FAQS
 
+Tarayıcıda açın:
 bash
 open index.html
+
+
 Kullanım
 Herhangi bir soruya tıklayarak cevabı görüntüleyebilir veya gizleyebilirsiniz
 
@@ -87,14 +89,10 @@ Mobil cihazlarda dokunmatik etkileşimler için optimize edilmiştir
 Yazar
 Website - Sercan Çintosun
 
-Frontend Mentor - @yourusername
-
-Twitter - @yourtwitter
+Frontend Mentor - @sercancintosunn
 
 Teşekkürler
 Frontend Mentor ekibine bu harika challenge için
-
-Stack Overflow topluluğuna çözümler için
 
 Tüm open source projelere ilham için
 
