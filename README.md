@@ -21,7 +21,7 @@ Mobil Görünümü:
 ![image alt](https://github.com/sercancintosunn/FAQS/blob/da69cdef8abcd8e995d544508c0e21b40591fcee/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-09%20163441.png)
 
 Bağlantılar
-Canlı Demo
+Canlı Demo https://faqs-ggds7dhkl-chapos-projects.vercel.app/
 
 
 
